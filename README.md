@@ -4,6 +4,6 @@
 
 For the back end I am using a headless CMS called *Strapi*.
 
-Since I am trying to learn, feel free to correct me by forking and pulling some request.
+Since I am trying to learn, feel free to help me by forking and pulling some request.
 
 > Share your knowledge with me so I can use it and share it with others too.
