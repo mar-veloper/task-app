@@ -1,6 +1,6 @@
 # Task App
 
-I am making my own personal Task app to learn more about _Strapi_, _React Context, Styled Components_ and _Draggable Components_.
+> I am making my own personal Task app to learn more about _Strapi_, _React Context, Styled Components_ and _Draggable Components_.
 
 For the back end I am using a headless CMS called *Strapi*.
 
